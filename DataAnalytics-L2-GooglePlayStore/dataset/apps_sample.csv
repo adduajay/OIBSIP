@@ -1,0 +1,11 @@
+App,Category,Rating,Reviews,Size,Installs,Type,Price,Content Rating
+FitLife,HEALTH_AND_FITNESS,4.6,12500,18M,"100,000+",Free,0,Everyone
+Photo Magic,PHOTOGRAPHY,4.2,8400,25M,"500,000+",Free,0,Everyone
+Study Pro,EDUCATION,4.7,6100,12M,"100,000+",Paid,4.99,Everyone
+Game Zone,GAME,4.0,15200,55M,"1,000,000+",Free,0,Teen
+Budget Plus,FINANCE,4.4,3900,9M,"50,000+",Paid,2.99,Everyone
+Travel Mate,TRAVEL_AND_LOCAL,4.1,2700,14M,"100,000+",Free,0,Everyone
+Food Order,FOOD_AND_DRINK,4.3,7200,16M,"500,000+",Free,0,Everyone
+Kids Learn,FAMILY,4.5,4300,22M,"100,000+",Free,0,Everyone
+Music Flow,MUSIC_AND_AUDIO,4.1,9800,30M,"1,000,000+",Free,0,Teen
+Office Suite,BUSINESS,4.0,5200,35M,"500,000+",Paid,6.99,Everyone

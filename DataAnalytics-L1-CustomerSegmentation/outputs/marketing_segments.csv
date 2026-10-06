@@ -1,0 +1,5 @@
+Cluster,Recency,Frequency,Monetary,AveragePurchaseValue,Segment_Label
+0.0,180.4,3.3,1026.85,312.95,Low-engagement
+1.0,44.09,8.62,3781.42,447.37,High-value / Loyal
+2.0,42.04,6.18,2277.45,382.43,High-value / Loyal
+3.0,55.73,3.39,1040.26,322.69,Low-engagement
